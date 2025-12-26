@@ -1,4 +1,4 @@
-# SQL Advent Calendar 2024 📊
+# SQL Advent Calendar 2025 – SQL Challenges 📊
 
 **Author:** Nahla Nabil
 
