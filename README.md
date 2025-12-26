@@ -13,9 +13,6 @@ Learn more: https://www.interviewmaster.ai/advent
 ## Repository Structure
 
 - `day-01/` … `day-24/` — solutions for each day  
-- Each folder may include:
-  - `solution.sql`
-  - `README.md` (optional notes/explanation)
 
 ## How to Use
 
